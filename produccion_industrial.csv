@@ -1,0 +1,16 @@
+fecha,linea_produccion,turno,unidades_producidas,defectos,tiempo_operacion_min
+2026-01-01,Línea A,Mañana,1200,25,480
+2026-01-02,Línea A,Tarde,1350,30,500
+2026-01-03,Línea B,Mañana,980,18,450
+2026-01-04,Línea B,Noche,870,22,430
+2026-01-05,Línea C,Mañana,1500,35,520
+2026-01-06,Línea C,Tarde,1420,28,510
+2026-01-07,Línea A,Noche,1100,20,470
+2026-01-08,Línea B,Tarde,1020,19,445
+2026-01-09,Línea C,Noche,1600,40,540
+2026-01-10,Línea A,Mañana,1250,24,485
+2026-01-11,Línea B,Mañana,990,17,452
+2026-01-12,Línea C,Tarde,1480,32,515
+2026-01-13,Línea A,Tarde,1380,29,495
+2026-01-14,Línea B,Noche,910,20,435
+2026-01-15,Línea C,Mañana,1550,36,525
